@@ -1,5 +1,5 @@
 # US Accidents (2016 - 2023)
-<img src="[URL_da_imagem](https://upload.wikimedia.org/wikipedia/commons/6/6d/Car_Crash_7-1-18_2245_%2842450608354%29.jpg)" alt="Texto alternativo da imagem" width="600" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Car_Crash_7-1-18_2245_%2842450608354%29.jpg" alt="Texto alternativo da imagem" width="600" height="300">
 
 
 
