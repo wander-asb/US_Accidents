@@ -5,7 +5,7 @@
 
 Imagine que você é um analista de dados em uma empresa de seguros de automóveis nos Estados Unidos. Sua empresa está interessada em entender melhor os fatores que contribuem para acidentes de trânsito, a fim de melhorar as políticas de seguros e reduzir os riscos para os clientes.
 
-[Link da base de dados]([https://www.example.com](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents))
+[Link da base de dados:](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
 
 ## Base de dados
